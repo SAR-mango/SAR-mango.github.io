@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Configurations
+title:            Jekyll Gitbook
+longtitle:        Jekyll Gitbook
+
+remote_theme:     sighingnow/jekyll-gitbook
+
