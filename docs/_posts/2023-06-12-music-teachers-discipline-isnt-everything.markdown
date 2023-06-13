@@ -2,7 +2,7 @@
 layout: post
 title:  "Music Teachers: Discipline Isn't Everything!"
 date:   2023-06-12 02:42:28 -0700
-categories:
+categories: jekyll update
 ---
 I have perfect pitch, and I play the flute. The way I perceive sounds is fundamentally different from the way most other people perceive sounds. I can hardly read music, because I never really needed to be able to. I don't even look at the key signature, because I know exactly what sounds "right" and what doesn't. There are, of course, some exceptions to this—but this can be easily overcome by simply listening to the piece I am trying to learn.
 
